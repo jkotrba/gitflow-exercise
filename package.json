@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "some gitflow exercises",
   "main": "index.js",
-  "scripts": {
-    "test": "npm test"
-  },
   "keywords": [
     "gitflow",
     "node",
     "git"
   ],
   "author": "jkotrba",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "npm test",
+    "start": "node ."
+  }
 }
