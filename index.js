@@ -1,6 +1,5 @@
-const math = require('./math')
+const {add, mult} = require('./math')
 const colors = require('./colors')
-// const words = require(words)
-
+const words = require('./words')
 
 console.log('Done! hello')

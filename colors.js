@@ -4,4 +4,4 @@ function foobar() {
    return colors
 }
 
-module.export = foobar()
+module.exports = foobar
